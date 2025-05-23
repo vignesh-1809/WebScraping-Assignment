@@ -26,5 +26,5 @@ This repository contains a Jupyter Notebook (`webscraping.ipynb`) demonstrating 
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/yourusername/webscraping.git
+   git clone https://github.com/vignesh-1809/WebScraping-Assignment.git
    cd webscraping
